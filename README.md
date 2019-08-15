@@ -2,6 +2,6 @@
 ## Steps
 - 1)Add below dependency in gradle.properties
 ## Screens
-(./screenshots/device-2019-08-15-151351.png)
-(./screenshots/device-2019-08-15-151538.png)
-(./screenshots/device-2019-08-15-151555.png)
+![screen1](./screenshots/device-2019-08-15-151351.png)
+![screen2](./screenshots/device-2019-08-15-151538.png)
+![screen3](./screenshots/device-2019-08-15-151555.png)
