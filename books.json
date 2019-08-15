@@ -1,0 +1,226 @@
+{
+   "jsonapi": {
+    "version": "1.0"
+   },
+   "BookData":{
+      "book":[
+         {
+            "uniqueID":"00572",
+            "ProductID":[
+
+            ],
+            "Type":"Trilogie im Schuber",
+            "ShortName":"toteninsel_trilogie",
+            "Title":"Toteninsel 100. Fall",
+            "AutorFName1":"Andr\u00e9",
+            "AutorLName1":"Marx",
+            "AutorFName2":[
+
+            ],
+            "AutorLName2":[
+
+            ],
+            "AutorFName3":[
+
+            ],
+            "AutorLName3":[
+
+            ],
+            "Erscheinungsjahr":"2001",
+            "OriginalausgabeLieferbar":"nein",
+            "Kurztext":"test",
+            "Illustrator":"Silvia Christoph",
+            "LinkPrint":[
+
+            ],
+            "LinkE-BookiOS":[
+
+            ],
+            "LinkE-BookAndroid":[
+
+            ],
+            "Leseprobe":[
+
+            ],
+            "E-BookErhaltlich":"nein",
+            "Auch_Erhaltlich_Als":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1317298436toteninsel_trilogie_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00571",
+            "ProductID":"978-3-440-12144-3",
+            "Type":"Trilogie im Schuber",
+            "ShortName":"geisterbucht_trilogie",
+            "Title":"Geisterbucht 150. Fall",
+            "AutorFName1":"Astrid",
+            "AutorLName1":"Vollenbruch",
+            "AutorFName2":[
+
+            ],
+            "AutorLName2":[
+
+            ],
+            "AutorFName3":[
+
+            ],
+            "AutorLName3":[
+
+            ],
+            "Erscheinungsjahr":"2010",
+            "OriginalausgabeLieferbar":"ja",
+            "Kurztext":"test",
+            "Illustrator":"Silvia Christoph",
+            "LinkPrint":[
+
+            ],
+            "LinkE-BookiOS":[
+
+            ],
+            "LinkE-BookAndroid":[
+
+            ],
+            "Leseprobe":[
+
+            ],
+            "E-BookErhaltlich":"ja",
+            "Auch_Erhaltlich_Als":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1317298478geisterbucht_trilogie_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00570",
+            "ProductID":[
+
+            ],
+            "Type":"Trilogie im Schuber",
+            "ShortName":"feuermond_trilogie",
+            "Title":"Feuermond 125. Fall",
+            "AutorFName1":"Andr\u00e9",
+            "AutorLName1":"Marx",
+            "AutorFName2":[
+
+            ],
+            "AutorLName2":[
+
+            ],
+            "AutorFName3":[
+
+            ],
+            "AutorLName3":[
+
+            ],
+            "Erscheinungsjahr":"2005",
+            "OriginalausgabeLieferbar":"nein",
+            "Kurztext":"test",
+            "Illustrator":"Silvia Christoph",
+            "LinkPrint":[
+
+            ],
+            "LinkE-BookiOS":[
+
+            ],
+            "LinkE-BookAndroid":[
+
+            ],
+            "Leseprobe":[
+
+            ],
+            "E-BookErhaltlich":"nein",
+            "Auch_Erhaltlich_Als":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1317298503feuermond_trilogie_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00559",
+            "ProductID":"978-3-440-12493-2",
+            "Type":"Trilogie im Schuber",
+            "ShortName":"top_secret",
+            "Title":"Top Secret Edition",
+            "AutorFName1":"Peter",
+            "AutorLName1":"Lerangis",
+            "AutorFName2":"G.H.",
+            "AutorLName2":"Stones",
+            "AutorFName3":"Megan",
+            "AutorLName3":"Stine",
+            "Erscheinungsjahr":"2011",
+            "OriginalausgabeLieferbar":"ja",
+            "Kurztext":"test",
+            "Illustrator":"Silvia Christoph",
+            "LinkPrint":[
+
+            ],
+            "LinkE-BookiOS":[
+
+            ],
+            "LinkE-BookAndroid":[
+
+            ],
+            "Leseprobe":[
+
+            ],
+            "E-BookErhaltlich":[
+
+            ],
+            "Auch_Erhaltlich_Als":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1317199893top_secret_trilogie_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00558",
+            "ProductID":"978-3-440-12620-2",
+            "Type":"Trilogie im Schuber",
+            "ShortName":"dreitag",
+            "Title":"Der dreiTag",
+            "AutorFName1":"Hendrik",
+            "AutorLName1":"Buchna",
+            "AutorFName2":"I.L.",
+            "AutorLName2":"Menger",
+            "AutorFName3":"John",
+            "AutorLName3":"Beckmann",
+            "Erscheinungsjahr":"2011",
+            "OriginalausgabeLieferbar":"ja",
+            "Kurztext":"test",
+            "Illustrator":"Silvia Christoph",
+            "LinkPrint":[
+
+            ],
+            "LinkE-BookiOS":[
+
+            ],
+            "LinkE-BookAndroid":[
+
+            ],
+            "Leseprobe":[
+
+            ],
+            "E-BookErhaltlich":[
+
+            ],
+            "Auch_Erhaltlich_Als":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1317204399dreitag_trilogie_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         }
+      ]
+   }
+}

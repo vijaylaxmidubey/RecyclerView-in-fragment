@@ -1,0 +1,134 @@
+{
+   "jsonapi": {
+    "version": "1.0"
+   },
+   "GamesData":{
+      "game":[
+         {
+            "uniqueID":"00037",
+            "ProductID":"4260187450203",
+            "Type":"Einzeltitel",
+            "ShortName":"verfluchtes_schloss_wii",
+            "Title": "Die drei ??? - Das verfluchte Schloss: Das Spiel zum Film für Wii",
+            "Publisher":"USM",
+            "Entwickler":"Exozet Games",
+            "Erscheinungsjahr":"2009",
+            "USK":"0",
+            "Platform":"Nintendo Wii",
+            "Kurztext":[
+
+            ],
+            "LinkStore":[
+
+            ],
+            "LinkDownload":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1318844405verfluchtes_schloss_wii_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00036",
+            "ProductID":"4260187455017",
+            "Type":"Einzeltitel",
+            "ShortName":"quiz",
+            "Title":"Die drei ??? - Das Quiz: Teste dein Wissen zu den Kult-Detektiven",
+            "Publisher":"USM",
+            "Entwickler":"behind the game",
+            "Erscheinungsjahr":"2009",
+            "USK":"0",
+            "Platform":"PC",
+            "Kurztext":[
+
+            ],
+            "LinkStore":[
+
+            ],
+            "LinkDownload":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1318844472quiz_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00035",
+            "ProductID":"4260187450210",
+            "Type":"Einzeltitel",
+            "ShortName":"verfluchtes_schloss_pc",
+            "Title":"Die drei ??? - Das verfluchte Schloss: Das PC-Game zum Kinofilm",
+            "Publisher":"USM",
+            "Entwickler":"Exozet Games",
+            "Erscheinungsjahr":"2009",
+            "USK":"0",
+            "Platform":"PC",
+            "Kurztext":[
+
+            ],
+            "LinkStore":[
+
+            ],
+            "LinkDownload":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1318844495verfluchtes_schloss_pc_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00034",
+            "ProductID":"9783803244253",
+            "Type":"Sammlung",
+            "ShortName":"goldedition2",
+            "Title":"Die drei ??? Goldedition Band 4-6",
+            "Publisher":"USM",
+            "Entwickler":"Büro für Neue Medien",
+            "Erscheinungsjahr":"2007",
+            "USK":"6",
+            "Platform":"PC",
+            "Kurztext":[
+
+            ],
+            "LinkStore":[
+
+            ],
+            "LinkDownload":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1318844516goldedition2_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         },
+         {
+            "uniqueID":"00033",
+            "ProductID":"9783803244246",
+            "Type":"Sammlung",
+            "ShortName":"goldedition1",
+            "Title":"Die drei ??? Goldedition Band 1-3",
+            "Publisher":"USM",
+            "Entwickler":"Büro für Neue Medien",
+            "Erscheinungsjahr":"2007",
+            "USK":"6",
+            "Platform":"PC",
+            "Kurztext":[
+
+            ],
+            "LinkStore":[
+
+            ],
+            "LinkDownload":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1318844538goldedition1_thumb.jpg",
+            "CoverImgURL":[
+
+            ]
+         }
+      ]
+   }
+}

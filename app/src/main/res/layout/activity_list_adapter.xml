@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height"
+    android:background="@drawable/border"
+    android:clickable="true"
+    android:padding="@dimen/padding"
+    tools:context=".ListAdapter">
+
+    <LinearLayout
+        android:id="@+id/rvItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp">
+
+        <ImageView
+            android:id="@+id/thumbnail"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="2dp"
+            android:background="@color/colorAccent"
+            android:scaleType="fitXY" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-medium"
+                android:hint="Type"
+                android:textColor="#000000"
+                android:textSize="@dimen/bookName" />
+
+            <TextView
+                android:id="@+id/tvSortName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-medium"
+                android:text="SortName "
+                android:textColor="#000000"
+                android:textSize="@dimen/bookName" />
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-medium"
+                android:hint="Title"
+                android:textColor="#000000"
+                android:textSize="@dimen/bookName" />
+
+            <!-- <ImageView
+                 android:id="@+id/tvTitle"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:fontFamily="sans-serif-medium"
+                 android:layout_gravity="center"
+                 android:hint="Title"
+                 android:textColor="#000000"
+                 android:textSize="@dimen/bookName" />-->
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

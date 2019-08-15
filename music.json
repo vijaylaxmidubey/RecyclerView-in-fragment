@@ -1,0 +1,209 @@
+{
+   "jsonapi": {
+    "version": "1.0"
+   },
+   "iTunes":{
+      "itune":[
+         {
+            "uniqueID":"0379",
+            "ProduktID":"886978015020",
+            "Type":"AUDIO",
+            "Kategorie":"NORMAL",
+            "ShortName":"ddf-150",
+            "FolgeNo":"Folge 150",
+            "FolgeNoRef":[
+
+            ],
+            "ReleaseDate":"11.11.2011",
+            "Artist":"Die drei ???",
+            "Title":"Geisterbucht",
+            "InfoText":[
+
+            ],
+            "Sprecher":[
+
+            ],
+            "AutorScript": "André Minninger ",
+            "AutorBuch":"Astrid Vollenbruch",
+            "RegProduction":"Heikedine Körting",
+            "Cover":"Silvia Christoph",
+            "Link1":[
+
+            ],
+            "Link2":[
+
+            ],
+            "Preview":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1320328098150kl.jpg",
+            "CoverImgURL":[
+
+            ],
+            "AudioMP3":[
+
+            ]
+         },
+         {
+            "uniqueID":"0378",
+            "ProduktID":"886977733529",
+            "Type":"AUDIO",
+            "Kategorie":"NORMAL",
+            "ShortName":"ddf-high",
+            "FolgeNo":"Special Folge",
+            "FolgeNoRef":[
+
+            ],
+            "ReleaseDate":"11.11.2011",
+            "Artist":"Die drei ???",
+            "Title":"High Strung - Unter Hochspannung",
+            "InfoText":[
+
+            ],
+            "Sprecher":[
+
+            ],
+            "AutorScript":"André Minninger",
+            "AutorBuch":"G. H. Stones",
+            "RegProduction":"Heikedine Körting",
+            "Cover":"Silvia Christoph",
+            "Link1":[
+
+            ],
+            "Link2":[
+
+            ],
+            "Preview":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1320325884highkl.jpg",
+            "CoverImgURL":[
+
+            ],
+            "AudioMP3":[
+
+            ]
+         },
+         {
+            "uniqueID":"0377",
+            "ProduktID":"886978014924",
+            "Type":"AUDIO",
+            "Kategorie":"NORMAL",
+            "ShortName":"audio-ddf-149",
+            "FolgeNo":"Folge 149",
+            "FolgeNoRef":[
+
+            ],
+            "ReleaseDate":"07.10.2011",
+            "Artist":"Die drei ???",
+            "Title":"Der namenlose Gegner",
+            "InfoText":[
+
+            ],
+            "Sprecher":[
+
+            ],
+            "AutorScript":"André Minninger",
+            "AutorBuch":"Kari Erlhoff",
+            "RegProduction":"Heikedine Körting",
+            "Cover":"Silvia Christoph",
+            "Link1":[
+
+            ],
+            "Link2":[
+
+            ],
+            "Preview":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1317887844ddf149k.jpg",
+            "CoverImgURL":[
+
+            ],
+            "AudioMP3":[
+
+            ]
+         },
+         {
+            "uniqueID":"0374",
+            "ProduktID":"743219911629",
+            "Type":"AUDIO",
+            "Kategorie":"NORMAL",
+            "ShortName":"audio-ddf-116",
+            "FolgeNo":"Folge 116",
+            "FolgeNoRef":[
+
+            ],
+            "ReleaseDate":"14.06.2004",
+            "Artist":"Die drei ???",
+            "Title":"Codename: Cobra",
+            "InfoText":[
+
+            ],
+            "Sprecher":[
+
+            ],
+            "AutorScript":"André Minninger",
+            "AutorBuch":"Marco Sonnleitner",
+            "RegProduction":"Heikedine Körting",
+            "Cover":"Silvia Christoph",
+            "Link1":[
+
+            ],
+            "Link2":[
+
+            ],
+            "Preview":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1316000755audio-ddf-116.jpg",
+            "CoverImgURL":[
+
+            ],
+            "AudioMP3":[
+
+            ]
+         },
+         {
+            "uniqueID":"0373",
+            "ProduktID":"743219911728",
+            "Type":"AUDIO",
+            "Kategorie":"NORMAL",
+            "ShortName":"audio-ddf-117",
+            "FolgeNo":"Folge 117",
+            "FolgeNoRef":[
+
+            ],
+            "ReleaseDate":"06.09.2004",
+            "Artist":"Die drei ???",
+            "Title":"Der finstere Rivale",
+            "InfoText":[
+
+            ],
+            "Sprecher":[
+
+            ],
+            "AutorScript":"André Minninger",
+            "AutorBuch":"André Marx",
+            "RegProduction":"Heikedine Körting",
+            "Cover":"Silvia Christoph",
+            "Link1":[
+
+            ],
+            "Link2":[
+
+            ],
+            "Preview":[
+
+            ],
+            "ThumbURL":"http://www.witsindia.com/ftp/test/thumb/1316000615audio-ddf-117.jpg",
+            "CoverImgURL":[
+
+            ],
+            "AudioMP3":[
+
+            ]
+         }
+      ]
+   }
+}

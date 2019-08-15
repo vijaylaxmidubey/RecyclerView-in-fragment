@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolBar">55dp</dimen>
+    <dimen name="appBar">40dp</dimen>
+    <dimen name="tab_label">16dp</dimen>
+    <dimen name="bookName">12dp</dimen>
+    <dimen name="thumbnail">150dp</dimen>
+    <dimen name="height">120dp</dimen>
+    <dimen name="padding">5dp</dimen>
+</resources>
